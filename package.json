@@ -3,8 +3,8 @@
   "version": "0.0.7",
   "description": "OAuth module for your Nuxt applications",
   "main": "index.js",
-  "repository": "https://github.com/samtgarson/nuxt-oauth",
-  "author": "samtgarson@gmail.com",
+  "repository": "https://github.com/Adam-Clrk/nuxt-oauth",
+  "author": "Adam Clarke",
   "license": "MIT",
   "scripts": {
     "test": "NODE_ENV=test jest",
